@@ -1,0 +1,16 @@
+name: komajd
+version: 0.3
+author: [Goku_Audi]
+description: Plugin intermediario de Reports do Knights of Mine
+main: me.pixel.ajd.Main
+commands:
+  duvida:
+  responder:
+  perguntas:
+  ajudante:
+  ajd:
+  pontos:
+  verpontos:
+  ajdcheck:
+  darponto:
+  tirarponto:
